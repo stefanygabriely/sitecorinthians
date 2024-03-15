@@ -22,7 +22,32 @@ body{
     margin: 0 16px;
     font-size: 16px;
 }
+.sobre_nos{
+    
+    background-image: linear-gradient(#400050,#2500501f);
+    color:#FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border-bottom: 2px solid #9900ffb2;
+}
 
+.sobre_nos-div-conteudo{
+    width: 650px;
+}
+.sobre_nos-titulo{
+    padding: 45px 0;
+    text-align: center;
+    font-size: 45px;
+}
+
+.sobre_nos-paragrafo{
+    font-size: 25px;
+}
+
+.sobre_nos-imagem{
+    width: 25%;
+}
 
     
 
