@@ -57,8 +57,16 @@ body{
 
 }
 .lojas-estado-img{
+    width: 20px;
     
-}   
+} 
+.lojas-estado-nome{
+    font-weight: 100;
+    text-decoration: underline;
+    color:#FFFFFF
+.lojas-estado-nome:
+
+}  
 
 
 
