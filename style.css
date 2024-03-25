@@ -48,8 +48,17 @@ body{
 .sobre_nos-imagem{
     width: 25%;
 }
+.lojas-todoestados-div{
+    display:grid ;
+    grid-template-columns:25% 25% 25% ;
+}
+.lojas-estado{
+    text-align: center ;
 
+}
+.lojas-estado-img{
     
+}   
 
 
 
